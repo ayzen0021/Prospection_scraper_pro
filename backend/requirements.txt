@@ -1,0 +1,12 @@
+flask
+flask-cors # Added for handling cross-origin requests
+requests
+beautifulsoup4
+phonenumberslite
+duckduckgo_search
+# tqdm # Not needed for backend library mode
+google-generativeai
+python-dotenv
+# Consider adding waitress or gunicorn for production deployment
+# waitress
+# gunicorn
